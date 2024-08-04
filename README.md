@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently learning all about Web Development and Mobile Apps
+
 <!--
 **Lurx381/Lurx381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
