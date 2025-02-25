@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-I'm currently learning all about Web Development and Mobile Apps
+I'm a passionate Programmer striving to becoming better at what I do from day to day.
+
+- 🌱 I’m currently learning Grails, Groovy & Angular
+- 📫 How to reach me:
+  -  E-Mail: ytlurx@gmail.com
+  -  Discord: lurxaye
+  -  X: lurxbtw
+- 👯 I’m looking to collaborate on developping different types of Web Applications where I can learn a lot about UI
 
 <!--
 **Lurx381/Lurx381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
